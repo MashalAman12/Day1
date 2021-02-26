@@ -6,7 +6,7 @@ namespace Day2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Mashal!Hope you are doing welll");
+            Console.WriteLine("Hello Mashal!Hope you are doing welll,Its my 2nd commit");
         }
     }
 }
