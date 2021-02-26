@@ -1,0 +1,13 @@
+/home/mashal.aman/Day2/bin/Debug/netcoreapp3.1/Day2
+/home/mashal.aman/Day2/bin/Debug/netcoreapp3.1/Day2.deps.json
+/home/mashal.aman/Day2/bin/Debug/netcoreapp3.1/Day2.runtimeconfig.json
+/home/mashal.aman/Day2/bin/Debug/netcoreapp3.1/Day2.runtimeconfig.dev.json
+/home/mashal.aman/Day2/bin/Debug/netcoreapp3.1/Day2.dll
+/home/mashal.aman/Day2/bin/Debug/netcoreapp3.1/Day2.pdb
+/home/mashal.aman/Day2/obj/Debug/netcoreapp3.1/Day2.csprojAssemblyReference.cache
+/home/mashal.aman/Day2/obj/Debug/netcoreapp3.1/Day2.csproj.CoreCompileInputs.cache
+/home/mashal.aman/Day2/obj/Debug/netcoreapp3.1/Day2.AssemblyInfoInputs.cache
+/home/mashal.aman/Day2/obj/Debug/netcoreapp3.1/Day2.AssemblyInfo.cs
+/home/mashal.aman/Day2/obj/Debug/netcoreapp3.1/Day2.dll
+/home/mashal.aman/Day2/obj/Debug/netcoreapp3.1/Day2.pdb
+/home/mashal.aman/Day2/obj/Debug/netcoreapp3.1/Day2.genruntimeconfig.cache
